@@ -5,7 +5,7 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import CampsitesDirectoryPage from './pages/CampsitesDirectoryPage'
 import './App.css'
-import CampsiteDetailPage from './pages/CampsisteDetailPage'
+import CampsiteDetailPage from './pages/CampsiteDetailPage'
 
 function App() {
     return (
